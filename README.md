@@ -603,7 +603,7 @@ $ git commit -m "remove xyz file"
 <hr>
 
 ## Git-Flow
-[Improved Git-flow with goodies ;)](https://github.com/svorwerk-dentsu/working-with-git/tree/develop/improved-gitflow)
+[Improved Git-flow with goodies ;)](https://svorwerk-dentsu.github.io/improved-gitflow/)
 
 ### index
 * [Setup](#setup)
